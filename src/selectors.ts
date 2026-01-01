@@ -1,0 +1,2 @@
+export const btnSelector = 'body > div > div.main-content > div.form-container > div > div > div.noAuth-component > button'
+export const checkSelector = 'body > div > div.main-content > div.form-container > div > div > div.service-area > label > span > input'
